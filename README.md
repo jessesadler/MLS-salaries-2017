@@ -1,0 +1,1 @@
+Some simple analysis and plots using ggplot2 on the 2017 MLS salaries released by the MLS Player's Union.
